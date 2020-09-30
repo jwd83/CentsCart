@@ -7,3 +7,5 @@
 * Weight connect shipping rates
 * Weight shipping rates
 * Ship on account
+* option to checkout and pay later
+* multiple email/users per account
