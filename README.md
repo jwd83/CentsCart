@@ -9,3 +9,4 @@
 * Ship on account
 * option to checkout and pay later
 * multiple email/users per account
+* investigate woocommerce + wp
